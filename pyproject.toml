@@ -1,0 +1,12 @@
+[project]
+name = "lora-demo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "torch",
+    "jupyterlab",
+    "matplotlib>=3.10.0",
+    "ipympl>=0.9.6",
+]
